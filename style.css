@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+}
+
+.meme {
+    border: 5px solid white;
+    width: 50%;
+    margin: 30px auto auto auto;
+}
+
+.guy {
+    width: 100%;
+}
+
+.title {
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;;
+}
+
+.desc{
+    color: white;
+    text-align: center;
+}
